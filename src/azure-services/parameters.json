@@ -1,0 +1,39 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": {
+      "value": null
+    },
+    "locationName": {
+      "value": null
+    },
+    "functionAppName": {
+      "value": null
+    },
+    "storageAccountName": {
+      "value": null
+    },
+    "appServicePlanName": {
+      "value": null
+    },
+    "signalrName": {
+      "value": null
+    },
+    "cosmosDBAccountName": {
+      "value": null
+    },
+    "cosmosDBDatabaseName": {
+      "value": null
+    },
+    "cosmosDBContainerName": {
+        "value": null
+    },
+    "logAnalyticsWorkspaceName": {
+      "value": null
+    },
+    "applicationInsightsName": {
+      "value": null
+    }
+  }
+}

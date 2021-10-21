@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDBConnection": "<YOUR COSMOSDB CONNECTION STRING>",
+    "SignalRConnection": "<YOUR SIGNALR CONNECTION STRING>"
+  },
+  "Host": {
+    "CORS": "http://localhost:4200",
+    "CORSCredentials": true
+  }
+}

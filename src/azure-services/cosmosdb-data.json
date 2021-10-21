@@ -1,0 +1,202 @@
+[
+    {
+        "id": "41DB4A77-7367-78BC-12DA-B26BE349A036",
+        "name": "Bananas",
+        "price": 0.4
+    },
+    {
+        "id": "F0EF9154-99D5-3215-2835-6A34E9BA5E44",
+        "name": "Apples",
+        "price": 0.53
+    },
+    {
+        "id": "61062BDF-1C13-A84E-1AC2-D200E754D41B",
+        "name": "Strawberries",
+        "price": 0.89
+    },
+    {
+        "id": "65F0CBE3-5F1F-EA44-6441-178B91A54277",
+        "name": "Grapes",
+        "price": 0.94
+    },
+    {
+        "id": "B7E872E1-570B-B609-EFBA-2AD334C866C0",
+        "name": "Oranges",
+        "price": 0.98
+    },
+    {
+        "id": "99C4F311-9475-7D92-1540-B51624B6F993",
+        "name": "Watermelon",
+        "price": 0.78
+    },
+    {
+        "id": "26CDA54E-E169-C9FA-DB30-1722F2722BD7",
+        "name": "Blueberries",
+        "price": 0.67
+    },
+    {
+        "id": "06A0EA8C-4AB3-0E47-5561-D4B6A1D501C0",
+        "name": "Lemons",
+        "price": 0.34
+    },
+    {
+        "id": "F1C5E550-2953-2C2C-07BF-67448A943276",
+        "name": "Peaches",
+        "price": 0.06
+    },
+    {
+        "id": "84D2D921-FBCE-B1D4-9B8D-8C576E159614",
+        "name": "Avocados",
+        "price": 0.22
+    },
+    {
+        "id": "272044F0-BB56-6A04-02AC-10AEFE9C6796",
+        "name": "Pineapple",
+        "price": 0.43
+    },
+    {
+        "id": "2E21EDBB-02F5-62E9-58E7-66A0F9255C9C",
+        "name": "Cherries",
+        "price": 0.43
+    },
+    {
+        "id": "65DACCC2-6C12-8559-D476-79EBB947F107",
+        "name": "Cantaloupe",
+        "price": 0.79
+    },
+    {
+        "id": "DE0C6D1F-C949-8458-D8F9-AA4D9BB58D24",
+        "name": "Pears",
+        "price": 0.08
+    },
+    {
+        "id": "AC3BDB8D-FAAE-B828-5EB5-02EA6CC08E4C",
+        "name": "Limes",
+        "price": 0.26
+    },
+    {
+        "id": "966E959B-FCE3-95C0-6B21-A69C84CBFF58",
+        "name": "Raspberries",
+        "price": 0.34
+    },
+    {
+        "id": "25EE956F-34B1-8454-9577-FE68ADAB6014",
+        "name": "Blackberries",
+        "price": 0.27
+    },
+    {
+        "id": "B8D418BF-44F9-73EE-0479-D3C014F2F8A9",
+        "name": "Clementine",
+        "price": 0.48
+    },
+    {
+        "id": "A7856459-7D8A-C62C-006A-D26693FC8F66",
+        "name": "Plums",
+        "price": 0.15
+    },
+    {
+        "id": "E4646BB4-6978-0E74-D445-8E0F05B775A1",
+        "name": "Nectarines",
+        "price": 0.21
+    },
+    {
+        "id": "2BFFB363-E714-E4E6-1C2A-7BA6983E8DF8",
+        "name": "Potatoes",
+        "price": 0.74
+    },
+    {
+        "id": "44570E33-6003-209A-4DB5-D519BDB55924",
+        "name": "Tomatoes",
+        "price": 0.7
+    },
+    {
+        "id": "2A83C1B6-791E-9AEB-78ED-8198B95D1FDF",
+        "name": "Onions",
+        "price": 0.02
+    },
+    {
+        "id": "448903A3-1750-8871-716B-1C51CB5F5CD5",
+        "name": "Carrots",
+        "price": 0.53
+    },
+    {
+        "id": "3D16854B-DA6E-B637-89A1-0718DFEFC78D",
+        "name": "Lettuce",
+        "price": 0.61
+    },
+    {
+        "id": "834EBE26-F237-928A-566E-156D474111F9",
+        "name": "Bell Peppers",
+        "price": 0.94
+    },
+    {
+        "id": "6BB0EA7B-CF3F-3762-2F02-A50661C44978",
+        "name": "Broccoli",
+        "price": 0.75
+    },
+    {
+        "id": "1B03BC61-3341-E5CB-B55C-D948CB52CFBC",
+        "name": "Cucumbers",
+        "price": 0.64
+    },
+    {
+        "id": "B3963DB0-79C7-8B8C-9A44-DBC671A3EE15",
+        "name": "Salad Mix",
+        "price": 0.56
+    },
+    {
+        "id": "422A85E8-D65A-D77B-1357-B875B22197AD",
+        "name": "Celery",
+        "price": 0.84
+    },
+    {
+        "id": "7C103634-AE2F-A9E7-765B-E091B8314577",
+        "name": "Mushrooms",
+        "price": 0.9
+    },
+    {
+        "id": "DA1400BB-6EA6-A752-32DD-15B748806210",
+        "name": "Corn",
+        "price": 0.62
+    },
+    {
+        "id": "F9FB3080-FCB8-FE4A-E7DA-BCAD1CB2FE2F",
+        "name": "Garlic",
+        "price": 0.86
+    },
+    {
+        "id": "1E729D83-43B2-3F42-13E7-A9FD81C5BE38",
+        "name": "Spinach",
+        "price": 0.7
+    },
+    {
+        "id": "4ED2CFC1-0C2F-7DD0-E937-108A5381E428",
+        "name": "Green Beans",
+        "price": 0.17
+    },
+    {
+        "id": "2AF09EBE-947F-425E-DD30-BBD227C481FC",
+        "name": "Sweet Potatoes",
+        "price": 0.93
+    },
+    {
+        "id": "54FF0303-1D25-261D-7DC6-D3D3C431AEA4",
+        "name": "Green Onions",
+        "price": 0.31
+    },
+    {
+        "id": "BB181554-5D56-5893-69C4-DAE4F677C561",
+        "name": "Cauliflower",
+        "price": 0.04
+    },
+    {
+        "id": "563A7877-D265-1D61-9593-559074DFFD36",
+        "name": "Cabbage",
+        "price": 0.47
+    },
+    {
+        "id": "2C9D7D3D-0B4D-9B89-F796-1102C19A7552",
+        "name": "Asparagus",
+        "price": 0.15
+    }
+]

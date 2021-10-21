@@ -1,0 +1,8 @@
+<h1 class="h3">Set products prices</h1>
+<p>Feedback of each saving is shown in DevTools.</p>
+
+<div class="products-prices">
+    <app-set-product-price  *ngFor="let product of products" [id]="product.id" [name]="product.name"
+                            [price]="product.price" (savePrice)="updateProductPrice($event)">
+    </app-set-product-price>
+</div>

@@ -1,0 +1,5 @@
+<span class="name">{{name}}</span>
+<span class="price"
+      #price
+      [@magnifyPrice]="{value: magnifyPrice ? 'magnified' : 'normal', params: {priceColor: priceColor}}"
+      (@magnifyPrice.done)="onAnimationEnd()">${{currentPrice}}</span>

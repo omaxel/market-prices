@@ -1,0 +1,7 @@
+<h1 class="h3">Prices</h1>
+<p>This page is live: you don't need to refresh the page to see changes.</p>
+
+<div class="products-prices">
+    <app-product *ngFor="let product of products" [name]="product.name"
+                       [price]="product.price"></app-product>
+</div>
